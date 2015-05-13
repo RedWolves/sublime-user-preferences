@@ -1,0 +1,21 @@
+{
+	"auto_close_tags": false,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"draw_minimap_border": true,
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"jsfmt"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translaste_tabs_to_spaces": false,
+	"word_wrap": true,
+	"wrap_width": 0
+}
